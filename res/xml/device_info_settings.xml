@@ -26,6 +26,15 @@
                     android:targetClass="com.android.settings.temasek.extrainfo.MainActivity" />
         </PreferenceScreen>
 
+        <!-- CM Updater -->
+        <PreferenceScreen android:key="cm_updates"
+                android:title="@string/cmupdate_settings_title"
+                android:summary="@string/system_update_settings_list_item_summary">
+            <intent android:action="android.intent.action.MAIN"
+                    android:targetPackage="com.cyanogenmod.updater"
+                    android:targetClass="com.cyanogenmod.updater.UpdatesSettings" />
+        </PreferenceScreen>
+
         <!-- Changelog -->
         <PreferenceScreen android:key="changelog"
                 android:title="@string/changelog_temasek_title"
