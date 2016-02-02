@@ -984,9 +984,14 @@
   <string name="contributors_cloud_failed_message">Данните за сътрудници не могат да бъдат заредени</string>
   <string name="contributor_info_menu">Потребителска информация</string>
   <string name="contributor_info_msg">
-<![CDATA[<b>Име:</b> <xliff:g id="name">%1$s </xliff:g> <br/> <br/>                  <b>Потребителско име<b>:</b> <xliff:g id="nick">%2$s </xliff:g> <br/> <br/>                  <b>Интереси:</b> <xliff:g id="commits">%3$s </xliff:g> <br/> <br/>                  <b>Ранг:</b> <xliff:g id="rank">%4$s </xliff:g>]]></string>
+        <![CDATA[<b>Име:</b> <xliff:g id="name">%1$s</xliff:g><br/><br/>
+                 <b>Потребителско име<b>:</b> <xliff:g id="nick">%2$s</xliff:g><br/><br/>
+                 <b>Интереси:</b> <xliff:g id="commits">%3$s</xliff:g><br/><br/>
+                 <b>Ранг:</b> <xliff:g id="rank">%4$s</xliff:g>]]></string>
   <string name="contributions_info_menu">Информация за потребители</string>
   <string name="contributions_info_msg">
-<![CDATA[<b>общо сътрудници:</b> <xliff:g id="total_contributors">%1$s </xliff:g> <br/> <br/>                  <b>Общо ангажира:</b> <xliff:g id="total_commits">%2$s </xliff:g> <br/> <br/>                  <b>Последна актуализация:</b> <xliff:g id="date">%3$s </xliff:g>]]></string>
+        <![CDATA[<b>общо сътрудници:</b> <xliff:g id="total_contributors">%1$s</xliff:g><br/><br/>
+                 <b>Общо ангажира:</b> <xliff:g id="total_commits">%2$s</xliff:g><br/><br/>
+                 <b>Последна актуализация:</b> <xliff:g id="date">%3$s</xliff:g>]]></string>
   <string name="quick_settings_reset_message">Нулиране бързи настройки плочки?</string>
 </resources>
